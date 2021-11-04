@@ -1,5 +1,5 @@
 # Overview:
-NotSpaceCompany is an attempt to delve into the coding of the game Space Company, by Sparticle999, in order to gain a deeper understanding and apreciation of his achievemnents
+NotSpaceCompany is an attempt to delve into the coding of the game Space Company, by Sparticle999, in order to gain a deeper understanding and apreciation of thier achievemnents
 
 # Original Work
 - Play the original Game https://sparticle999.github.io/SpaceCompany/#
