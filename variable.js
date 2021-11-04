@@ -69,8 +69,8 @@ var gem = 0; var gemStorage = 50; var gemNextStorage = 100; var gemps = 0;
 var gemMiner = 0; var gemMinerMetalCost = 15; var gemMinerGemCost = 10; var gemMinerOutput = 1;
 var advancedDrill = 0; var advancedDrillMetalCost = 120; var advancedDrillGemCost = 200; var advancedDrillOilCost = 60; var advancedDrillEnergyInput = 2; var advancedDrillOutput = 4;
 var diamondDrill = 0; var diamondDrillLunariteCost = 3400; var diamondDrillGemCost = 8000; var diamondDrillSiliconCost = 4500; var diamondDrillEnergyInput = 15; var diamondDrillOutput = 89;
-var carbyneDrill = 0; var carbyneDrillLunariteCost = 21000; var carbyneDrillGemCost = 27000; var carbyneDrillMeteoriteCost = 800; var carbyneDrillEnergyInput = 40;  var carbyneDrillOutput = 358;
-var diamondChamber = 0; var diamondChamberUraniumCost = 181000; var diamondChamberCharcoalCost = 185000; var diamondChamberMeteoriteCost = 12500; var diamondChamberEnergyInput = 260;  var diamondChamberOutput = 3747;
+var carbyneDrill = 0; var carbyneDrillLunariteCost = 21000; var carbyneDrillGemCost = 27000; var carbyneDrillMeteoriteCost = 800; var carbyneDrillEnergyInput = 40; var carbyneDrillOutput = 358;
+var diamondChamber = 0; var diamondChamberUraniumCost = 181000; var diamondChamberCharcoalCost = 185000; var diamondChamberMeteoriteCost = 12500; var diamondChamberEnergyInput = 260; var diamondChamberOutput = 3747;
 
 // Charcoal
 var charcoal = 0; var charcoalStorage = 50; var charcoalNextStorage = 100; var charcoalps = 0; var charcoalToggled = true;
@@ -86,7 +86,7 @@ var woodcutter = 0; var woodcutterMetalCost = 10; var woodcutterWoodCost = 5; va
 var laserCutter = 0; var laserCutterMetalCost = 50; var laserCutterGemCost = 90; var laserCutterOilCost = 40; var laserCutterEnergyInput = 4; var laserCutterOutput = 6;
 var deforester = 0; var deforesterLunariteCost = 3000; var deforesterTitaniumCost = 2700; var deforesterSiliconCost = 2500; var deforesterEnergyInput = 16; var deforesterOutput = 74;
 var infuser = 0; var infuserLunariteCost = 16000; var infuserOilCost = 31200; var infuserMeteoriteCost = 490; var infuserEnergyInput = 43; var infuserOutput = 297;
-var forest = 0; var forestMetalCost = 122000; var forestGemCost = 151000; var forestHydrogenCost = 183000; var forestEnergyInput = 244;  var forestOutput = 3278;
+var forest = 0; var forestMetalCost = 122000; var forestGemCost = 151000; var forestHydrogenCost = 183000; var forestEnergyInput = 244; var forestOutput = 3278;
 
 // Silicon
 var silicon = 0; var siliconStorage = 50; var siliconNextStorage = 100; var siliconps = 0;
@@ -195,9 +195,9 @@ var antimatter = 0; var antimatterps = 0; var antimatterStorage = 100000; var an
 
 var preciousGemBaseCost = 10000; var preciousSilverBaseCost = 7500; var preciousGoldBaseCost = 5000;
 var preciousActivateGemBaseCost = 30000; var preciousActivateSilverBaseCost = 20000; var preciousActivateGoldBaseCost = 10000;
-var energeticWoodBaseCost =  10000; var energeticCharcoalBaseCost = 5000; var energeticUraniumBaseCost = 200;
+var energeticWoodBaseCost = 10000; var energeticCharcoalBaseCost = 5000; var energeticUraniumBaseCost = 200;
 var energeticActivateWoodBaseCost = 30000; var energeticActivateCharcoalBaseCost = 15000; var energeticActivateUraniumBaseCost = 500;
-var techSiliconBaseCost =  30000; var techGoldBaseCost = 18000; var techGemBaseCost = 40000;
+var techSiliconBaseCost = 30000; var techGoldBaseCost = 18000; var techGemBaseCost = 40000;
 var techActivateSiliconBaseCost = 50000; var techActivateGoldBaseCost = 30000; var techActivateGemBaseCost = 60000;
 var meteoriteMeteoriteBaseCost = 5000; var meteoriteIceBaseCost = 600000; var meteoriteSiliconBaseCost = 1200000;
 var meteoriteActivateMeteoriteBaseCost = 10000; var meteoriteActivateIceBaseCost = 2000000; var meteoriteActivateSiliconBaseCost = 4000000;
