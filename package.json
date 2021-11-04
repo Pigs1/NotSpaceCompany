@@ -1,10 +1,10 @@
 {
-  "name": "SpaceCompany",
+  "name": "Cosmos Corporation (Definitely Not Space Company)",
   "version": "0.4.3",
   "homepage": "https://github.com/sparticle999/SpaceCompany",
   "licenses": "",
   "author": {
-	  "name": "sparticle999"
+    "name": "sparticle999"
   },
   "engines": {
     "node": ">= 0.10.0"
